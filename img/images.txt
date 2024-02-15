@@ -1,0 +1,3 @@
+The images here are just used in the display and can be swapped out. 
+
+Size is not really that important due to CSS handling the scaling of the images.
